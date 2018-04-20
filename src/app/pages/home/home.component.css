@@ -1,6 +1,7 @@
 .row{
     margin-bottom: 0;
 }
+
 #section1{
     margin-top: 10%;
     height: 400px;
@@ -21,4 +22,18 @@
 #button-section2{
     margin-top: 50px;
     padding-bottom: 60px;
+}
+
+#section4{
+    padding-bottom: 50px;
+}
+
+#section4 img {
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+#section4 .card-content .btn{
+    margin-top: 30px;
+    background-color: #4267b2;
 }
